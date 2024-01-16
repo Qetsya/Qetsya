@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikol!</h1>
 <h3 align="center">A passionate frontend developer from Lithuania!</h3>
 
-- 💬 About me **Driven self-starter and fast learner who changed the career.**
+- 💬 About me? **Driven self-starter and fast learner who changed the career.**
 
-- 📄 About my experiences **I have completed my studies at Code Academy advanced Front-End (React) course.**
+- 📄 About my experiences: **I have completed my studies at Code Academy advanced Front-End (React) course.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
